@@ -21,24 +21,24 @@ namespace Algorithm
             {
                 for(var j = i + 1; j < _people.Count; j++)
                 {
-                    var pairOfUsers = new Pair();
-                    
-                    //TODO look at maybe extracting this out into its own method?
-                    var tempList = new List<Person>(){_people[i], _people[j]};
-                    var orderedList = tempList.OrderBy(x => x.BirthDate).ToList();
-                    pairOfUsers.YoungerPerson = orderedList.First();
-                    pairOfUsers.OlderPerson = orderedList.Last();
-                    pairOfUsers.ExactAgeDifference = pairOfUsers.OlderPerson.BirthDate - pairOfUsers.YoungerPerson.BirthDate;
-                    allPairsOfUsers.Add(pairOfUsers);
+                    var twoPeople = new List<Person>(){_people[i], _people[j]};
+                    var pairWithAgeDifference = FindsAgeDifference(twoPeople);
+                    allPairsOfUsers.Add(pairWithAgeDifference);
                 }
             }
-            
             return allPairsOfUsers.Count < 1 ? new Pair() : FindsCorrectPair(allPairsOfUsers, option);
         }
 
+        public Pair FindsAgeDifference(List<Person> twoPeople)
+        {
+            var twoPeopleOrdered = twoPeople.OrderBy(x => x.BirthDate).ToList();
+            var pair = new Pair {YoungerPerson = twoPeopleOrdered.First(), OlderPerson = twoPeopleOrdered.Last()};
+            pair.AgeDifference = pair.OlderPerson.BirthDate - pair.YoungerPerson.BirthDate;
+            return pair;
+        }
         public Pair FindsCorrectPair(List<Pair> allPairsOfUsers, Option option )
         {
-           var orderedAllPairsOfUsers= allPairsOfUsers.OrderBy(x => x.ExactAgeDifference);
+           var orderedAllPairsOfUsers= allPairsOfUsers.OrderBy(x => x.AgeDifference);
            return option == Option.ClosestTwo ? orderedAllPairsOfUsers.First() : orderedAllPairsOfUsers.Last();
         }
     }
