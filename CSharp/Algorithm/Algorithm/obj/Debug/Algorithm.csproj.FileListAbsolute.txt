@@ -1,6 +1,0 @@
-/Users/samaa.kanani/Desktop/kata-refactoring/CSharp/Algorithm/Algorithm/bin/Debug/Algorithm.dll
-/Users/samaa.kanani/Desktop/kata-refactoring/CSharp/Algorithm/Algorithm/bin/Debug/Algorithm.pdb
-/Users/samaa.kanani/Desktop/kata-refactoring/CSharp/Algorithm/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache
-/Users/samaa.kanani/Desktop/kata-refactoring/CSharp/Algorithm/Algorithm/obj/Debug/Algorithm.csproj.CoreCompileInputs.cache
-/Users/samaa.kanani/Desktop/kata-refactoring/CSharp/Algorithm/Algorithm/obj/Debug/Algorithm.dll
-/Users/samaa.kanani/Desktop/kata-refactoring/CSharp/Algorithm/Algorithm/obj/Debug/Algorithm.pdb

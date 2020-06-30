@@ -1,0 +1,9 @@
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.deps.json
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csprojAssemblyReference.cache
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfoInputs.cache
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfo.cs
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll
+/Users/samaa.kanani/Desktop/Learning-C#/RefactoringKata/CSharp/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb
