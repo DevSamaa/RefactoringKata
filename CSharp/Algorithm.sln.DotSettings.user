@@ -4,7 +4,7 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=126e630a_002Dd509_002D41ad_002Dadde_002D791a22c55bd4/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="Returns_Closest_Two_For_Two_People" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::523A600C-AD09-4095-AB10-086DAD8C042D::.NETFramework,Version=v4.0::Algorithm.Test.FinderTests.Returns_Closest_Two_For_Two_People&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D1319FD7-9A60-41B0-A1FF-D16347D7DB0F::.NETCoreApp,Version=v3.1::Algorithm.Test.FinderTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2473a40b_002D8a99_002D416e_002D9f8c_002D6b6bcf534181/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="Returns_Empty_Results_When_Given_Empty_List" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
@@ -19,4 +19,9 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=762d75b0_002D2a14_002D46a3_002D92bd_002D76e8d1032944/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="All tests from Solution" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
   &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b16021eb_002Dddb2_002D40db_002Dbc51_002Dbe5edcbf2371/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="FinderTests #2" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D1319FD7-9A60-41B0-A1FF-D16347D7DB0F::.NETCoreApp,Version=v3.1::Algorithm.Test.FinderTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
